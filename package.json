@@ -1,5 +1,8 @@
 {
-  "name": "my-own-library",
+  "name": "@nicomontes0/test-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/nicomontes0"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
